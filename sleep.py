@@ -58,7 +58,7 @@ def preprocess_input(age, sleep_duration, quality_of_sleep, physical_activity_le
         'Physical Activity Level': physical_activity_level,
         'Stress Level': stress_level,
         'Heart Rate': heart_rate,
-        'Daily Steps': daily_steps,/
+        'Daily Steps': daily_steps,
         'Systolic': systolic_bp,
         'Diastolic': diastolic_bp
     }
